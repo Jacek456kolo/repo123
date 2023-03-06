@@ -18,21 +18,18 @@
 		
 		
 		<div id="tlo1">
+			
 			<div id="przesun1">
 				<div id="tlo3">
-					<div id="pc1">  1PC</div>
-					<div class="linia1"></div>
+					<div id="pc1">1PC</div>
+					<div id="pc2">-----------------</div>
 					<div id="pc3">1ROK</div>
 				</div>
 			</div>
 			
 			<div id="naglowek1">G DATA</div>
 			<div id="naglowek2">Software OEM</div>
-			<div id="naglowek4">.</div>
 		</div>
-		
-		<div class="linia1"></div>
-		
 		<div id="naglowek3">Zabezpieczenie komputera przed wirusami, ransomeware i innymi zagrozeniami z sieci</div>
 		<div id="kolumny1">
 			<div> <img src="ransomware1.jpg" width="100"; height="100;">
@@ -48,12 +45,5 @@
 				</div>
 			</div>
 		</div>
-		
-		<input type="text" name="testfield" maxlength=12 />
-				
-		<button name="button" value="OK" type="button" height="10" width="20">
-		
-		</div>
-		
 	</body>
 </html> 			

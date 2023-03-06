@@ -3,7 +3,6 @@ body {margin: 0
 
 #tlo1 {
 	background-color: red;
-	background: linear-gradient(180deg, rgba(253,29,29,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
 }
 
 #tlo2 {
@@ -21,48 +20,33 @@ body {margin: 0
 
 
 #pc1 {
-	font-size: 12px;
-	text-align: center;
+	font-size:12px;
+}
+
+#pc2 {
+	font-size:4px;
 }
 
 #pc3 {
-	font-size: 12px;
-	margin-bottom: 2px;
-	}
+	font-size:12px;
+	margin-bottom: 24px;
+}
 
 
 #naglowek1
 {
-	font-family: Arial;
-	font-size: 20px;
-	margin-left: 20px;
-	color: white;
+	font-size:20px;
 }
 
 #naglowek2
 {
-	font-family: Arial;
-	font-size: 26px;
-	margin-left: 20px;
-	color: white;
-}
-
-#naglowek4 
-{
-	font-size: 8px;
-	margin-bottom: 10px;	
+	font-size:26px;
+	margin-bottom: 24px;
 }
 
 
 #naglowek3 {
 	margin-bottom: 24px;
-}
-
-.linia1
-{
-height: 1px;
-width: 100%;
-background: black;
 }
 
 
